@@ -13,6 +13,7 @@ lokjhgfd
   
 </div>
   <a href="https://t.me/doniyorov_javohir">
+         <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram"/>
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
