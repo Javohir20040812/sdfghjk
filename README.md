@@ -11,7 +11,7 @@ lokjhgfd
   <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="instagram"/>
   <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="facebook"/>
   
-</div>
+</div id="badges" align="center" >
   <a href="https://t.me/doniyorov_javohir">
          <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram"/>
   </a>
