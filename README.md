@@ -1,21 +1,23 @@
-# sdfghjk
-lokjhgfd
+# dars
 <div id="header" align="center">
-  <<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>>
+  <img src="https://medium.com/giphy/today-is-the-second-anniversary-of-the-overturning-of-roe-v-wade-ec7e971db889?source=---------3-----------------------" width="200" />
 </div>
-<div id="badges">
-    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram"/>
-  <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt="Youtube "/>
-  <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="instagram"/>
-  <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="facebook"/>
-  
-</div id="badges" align="center" >
+<hr>
+<div id="badges" align="center">
   <a href="https://t.me/doniyorov_javohir">
-         <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="telegram"/>
+    <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white" alt="Bu telegram badges">
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://youtube.com/@shohabbosdev">
+    <img src="https://img.shields.io/badge/youtube-white?logo=youtube&logoColor=red" alt="Bu youtube badges">
   </a>
+  <a href="https://instagram.com/shohabbosdev">
+    <img src="https://img.shields.io/badge/instagram-red?logo=instagram&logoColor=white" alt="Bu instagram badges">
+  </a>
+  <a href="https://facebook.com/shohabbosdev">
+    <img src="https://img.shields.io/badge/facebook-white?logo=facebook&logoColor=blue" alt="Bu facebook badges">
+  </a>
+  <a href="https://x.com/shohabbosdev">
+    <img src="https://img.shields.io/badge/twitter-black?logo=x&logoColor=white" alt="Bu twitter badges"/>
+  </a><br>
+  <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
 </div>
