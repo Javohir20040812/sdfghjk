@@ -20,7 +20,7 @@
   <img src="https://komarev.com/ghpvc/?username=freedom-1&label=PROFILNI+KO'RISHLAR+SONI" alt=""/>
 </div>
 <h1 align="center">
-  hey there
+ Assalomu alaykum
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
